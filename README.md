@@ -1,3 +1,4 @@
+![Threat Hunt Silent Corridor web banner](assets/silent_corridor_banner.png)
 # Operation Silent Corridor
 **Threat Actor:** GREY VEIL // State-Sponsored // Defence Sector APT  
 **Environment:** Microsoft Sentinel — LAW-SilentCorridor (`SilentCorridorX_CL`)  
